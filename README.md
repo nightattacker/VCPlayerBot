@@ -87,7 +87,7 @@ python3 main.py
 - Automatic restart even if heroku restarts. (Configurable)
 - Support exporting and importing playlist.
 
-### Note
+### Notes
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
